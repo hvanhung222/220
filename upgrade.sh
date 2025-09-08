@@ -1,8 +1,8 @@
 #!/bin/sh
 
 HOST="https://raw.githubusercontent.com/hvanhung222/220/main"
-KERNEL="kernel"
-ROOTFS="root"
+KERNEL="kernel.itb"
+ROOTFS="root.sqsh"
 
 echo "Going to /tmp"
 cd /tmp
